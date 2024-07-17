@@ -9,4 +9,4 @@ PC es una asignatura de tercer curso centrada en el aprendizaje de los fundament
 - [Práctica 3: Semáforos](/Práctica%203)
 - [Práctica 4: Monitores](/Práctica%204)
 - [Práctica 5: Programación distribuida y concurrente y sockets](/Práctica%205)
-- [Proyecto Final: Aplicación cliente-servidor](/Práctica%20Final)
+- [Proyecto Final: Aplicación cliente-servidor](/Proyecto%20Final)
