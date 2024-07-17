@@ -1,0 +1,21 @@
+Lista de la compra:
+	Leche
+	Pan
+	Huevos
+	Pollo
+	Arroz
+	Pasta
+	Verduras (zanahorias, brócoli, espinacas)
+	Frutas (manzanas, plátanos, naranjas)
+	Yogur
+	Queso
+	Aceite de oliva
+	Tomate
+	Cebolla
+	Patatas
+	Carne picada
+	Atún enlatado
+	Cereal
+	Mantequilla
+	Sal
+	Pimienta
